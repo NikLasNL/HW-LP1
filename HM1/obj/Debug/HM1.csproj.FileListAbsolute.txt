@@ -1,0 +1,6 @@
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/bin/Debug/HM1.exe
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/bin/Debug/HM1.pdb
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/obj/Debug/HM1.csprojAssemblyReference.cache
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/obj/Debug/HM1.csproj.CoreCompileInputs.cache
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/obj/Debug/HM1.exe
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM1/obj/Debug/HM1.pdb

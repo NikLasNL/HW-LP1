@@ -1,0 +1,6 @@
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/bin/Debug/HM2.exe
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/bin/Debug/HM2.pdb
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/obj/Debug/HM2.csprojAssemblyReference.cache
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/obj/Debug/HM2.csproj.CoreCompileInputs.cache
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/obj/Debug/HM2.exe
+/Users/nikitafokin/RiderProjects/ConsoleApplication1/HM2/obj/Debug/HM2.pdb
